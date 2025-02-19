@@ -1,6 +1,8 @@
 ## 📊 Project Overview
 This project, "Hand Gesture Recognition System," focuses on developing a real-time gesture-based communication system using MediaPipe, OpenCV, and LSTM Neural Networks. The system aims to enhance human-computer interaction by accurately recognizing hand gestures, particularly for speech-impaired individuals. By leveraging AI-driven methodologies, the project facilitates gesture-to-text translation, improving accessibility and real-time communication.
 
+---
+
 ## 👥 Team Members
 Soham Vasudeo
 Om Agrawal
@@ -10,6 +12,8 @@ Ritika Shetty
 Course: Machine Learning Project 2022-23
 Institution: NMIMS University
 
+---
+
 ## 🎯 Objectives
 The objective of this project is to create a robust real-time hand gesture recognition system that can accurately interpret predefined gestures and expand to accommodate new gestures for various applications.
 
@@ -18,6 +22,8 @@ Key Goals:
 ✔ Implement a real-time detection system with high accuracy and low latency.
 ✔ Develop a scalable and adaptable model to recognize additional gestures.
 ✔ Enhance human-computer interaction through gesture-controlled systems.
+
+---
 
 ## 🗂 Data Understanding
 The project leverages gesture-based image data to train and optimize the model for accurate recognition.
@@ -33,11 +39,15 @@ Thank You ✋
 One ☝
 Victory ✌
 
+---
+
 ## 📌 Data Storage: Organized in labeled directories for training, validation, and testing.
 Challenges Addressed:
 🚧 Variations in Lighting & Backgrounds – Improved model robustness to different environments.
 🚧 Real-Time Processing Constraints – Optimized inference time for faster recognition.
 🚧 Multi-Gesture Recognition – Designed the model to learn new gestures dynamically.
+
+---
 
 ## ⚙️ Data Preparation
 Data Cleaning & Processing:
@@ -54,6 +64,8 @@ Data Splitting:
 📌 Validation Set – 15%
 📌 Testing Set – 15%
 
+---
+
 ## 🧠 Modeling
 The project utilizes deep learning models to classify hand gestures based on extracted keypoints.
 
@@ -69,6 +81,8 @@ The project utilizes deep learning models to classify hand gestures based on ext
 3. Model Training & Fine-Tuning:
 ✔ Hyperparameter Optimization: Adjusted learning rate, batch size, and epochs for best results.
 ✔ Loss Function & Optimization: Categorical Cross-Entropy with Adam Optimizer.
+
+---
 
 ## 📈 Model Evaluation
 The performance of the gesture recognition system was evaluated using multiple metrics:
@@ -97,11 +111,15 @@ The gesture recognition system is integrated into a real-time application for ge
 4. Continuous Monitoring & Updates:
 📊 Feedback Loop: Allows users to add new gestures dynamically.
 
+---
+
 ## 📊 Key Insights and Results
 📌 High Recognition Accuracy: 96.4% accuracy on test data.
 📌 Fast Processing Speed: Real-time recognition at ~3.81 ms per frame.
 📌 User-Friendly Interface: Seamless gesture-to-text translation for assistive communication.
 📌 Expandable Gesture Set: New gestures can be added without retraining the entire model.
+
+---
 
 ## 🛠 Tools & Technologies Used
 Programming & Frameworks:
@@ -119,6 +137,8 @@ Visualization & Analytics:
 Deployment & Integration:
 🌍 Flask, FastAPI, TensorFlow Lite (TFLite)
 
+---
+
 📊 Visuals
 📸 Dataset Samples: Hand gesture images captured for training.
 ![image](https://github.com/user-attachments/assets/a5ad327e-c702-466f-801f-9e95786f7465)
@@ -130,6 +150,7 @@ Deployment & Integration:
 📊 Model Performance Graphs: Accuracy, loss curves, and real-time testing results.
 ![image](https://github.com/user-attachments/assets/18206e2f-37a6-45d1-a14e-85785dcb8883)
 
+---
 
 ## 🏆 Achievements
 🏅 Developed a fully functional real-time gesture recognition system.
